@@ -1,6 +1,5 @@
-# Hi there, ![waving hand](link_to_your_hand_gif)
+# # Hi there, 👋 I am Rohit Singh
 
-![moving text](link_to_your_data_analyst_gif)
 ---
 
 ## About Me:
