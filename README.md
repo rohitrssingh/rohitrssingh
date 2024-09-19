@@ -2,7 +2,7 @@
 
 ---
 
-## ![About Me](https://img.icons8.com/ios-filled/50/null/about.png) About Me:
+## About Me:
 
 I am a passionate Data Analyst skilled in Python, SQL, Power BI, and data visualization. I enjoy working with data to transform it into actionable insights and am constantly learning new technologies and techniques to improve my skills.
 
@@ -10,7 +10,7 @@ I have worked with Python, Pandas, and SQL to uncover patterns, make data-driven
 
 ---
 
-## ![Tech Stack](https://img.icons8.com/ios-filled/50/null/code-file.png) Tech Stack:
+## Tech Stack:
 
 <div align="center">
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
